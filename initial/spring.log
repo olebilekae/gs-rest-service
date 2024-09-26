@@ -1,0 +1,9 @@
+2024-09-26T15:55:22.507+02:00  INFO 69071 --- [main] c.e.restservice.RestServiceApplication   : Starting RestServiceApplication using Java 21.0.4 with PID 69071 (/home/freefall13494/kaelekae/gs-rest-service/initial/build/classes/java/main started by freefall13494 in /home/freefall13494/kaelekae/gs-rest-service/initial)
+2024-09-26T15:55:22.512+02:00  INFO 69071 --- [main] c.e.restservice.RestServiceApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-09-26T15:55:24.604+02:00  INFO 69071 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 5555 (http)
+2024-09-26T15:55:24.624+02:00  INFO 69071 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-09-26T15:55:24.624+02:00  INFO 69071 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-09-26T15:55:24.705+02:00  INFO 69071 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-09-26T15:55:24.706+02:00  INFO 69071 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2087 ms
+2024-09-26T15:55:25.370+02:00  INFO 69071 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 5555 (http) with context path '/'
+2024-09-26T15:55:25.386+02:00  INFO 69071 --- [main] c.e.restservice.RestServiceApplication   : Started RestServiceApplication in 3.775 seconds (process running for 4.32)
